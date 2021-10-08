@@ -14,3 +14,7 @@
 > Ödev Yapılırken Aşağıdaki linkten faydalanılabilinir.
 
 https://github.com/sahinmansuroglu/NtpDersi/blob/main/5_Hafta_Ders_4.md
+
+**Bonus Puan Ekleme Durumları**
+> Eğer Ödev 08 ekim Cuma günü Gece 12'ye kadar Gönderilirse ekstra 10 puan bonus verilecek.
+> Eğer Ödev 09 ekim Cumartesi günü Gece 12'ye kadar Gönderilirse ekstra 5 puan bonus verilecek.
